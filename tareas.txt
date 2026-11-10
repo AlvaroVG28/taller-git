@@ -4,3 +4,4 @@
 - Revisar diferencias antes de guardar
 - Alternativa git reset HEAD
 - Practicar stash
+- Practicar reset

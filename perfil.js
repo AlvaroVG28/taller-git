@@ -4,4 +4,3 @@ const estudiante = {
 };
 
 console.log(`Hola, ${estudiante.nombre}`);
---source=HEAD~1
